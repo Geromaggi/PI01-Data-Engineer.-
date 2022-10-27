@@ -57,4 +57,5 @@ Agradezco a todos! Aqui les dejo el diagrama de flujo de trabajo del ETL realiza
 
 
 
-![image](https://user-images.githubusercontent.com/93155829/198322033-17cac59d-c662-477e-87d1-a22cfbb35301.png)
+![Diagrama de Flujo ETL](https://user-images.githubusercontent.com/93155829/198385183-a83f7970-1702-4269-ba6c-17272b4020a2.png)
+
