@@ -55,6 +55,10 @@ En MySQL tan solo probaremos que nuestra base de datos funcione correctamente ej
 
 Agradezco a todos! Aqui les dejo el diagrama de flujo de trabajo del ETL realizado para el proyecto 1 de data engineer.
 
+Aqui dejo el link del video, explicando el proyecto:
+
+https://youtu.be/O1BPhi7wcuM
+
 
 
 ![Diagrama de Flujo ETL](https://user-images.githubusercontent.com/93155829/198385183-a83f7970-1702-4269-ba6c-17272b4020a2.png)
